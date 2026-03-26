@@ -1,13 +1,12 @@
-# 🛡️ Ana Alicia - Cybersecurity Portfolio
+# Ana Alicia - Data & Risk Portfolio
 
-🎯 Entry-Level Cybersecurity | GRC | Risk Management
+🎯 Aspiring Data & AI Engineer | Risk Analysis | Python
 
-¡Bienvenida/o a mi portafolio de Ciberseguridad!  Soy **Ingeniera en Administración** certificada en Cisco Certified Support Technician (CCST) Cybersecurity, en transición al sector tecnológico con enfoque en Gobernanza, Riesgo y Cumplimiento (GRC).
+Bienvenida/o a mi portafolio. Soy Ingeniera en Administración con formación en ciberseguridad y enfoque en análisis de datos, gestión de riesgos y resolución de problemas.
 
-Mi perfil combina ciberseguridad, gestión de procesos y análisis de riesgos, lo que me permite entender la seguridad no solo desde la tecnología, sino también desde su impacto en el negocio.
+Mi perfil combina pensamiento analítico, conocimiento en seguridad y habilidades en Python, lo que me permite identificar riesgos, analizar información y apoyar la toma de decisiones basada en datos.
 
-💡 Creo que la ciberseguridad es más efectiva cuando se integra desde los procesos y la estrategia organizacional.
-
+💡 Me interesa aplicar el análisis de datos y la tecnología para detectar patrones, optimizar procesos y prevenir riesgos en entornos organizacionales.
 ---
 
 ## 🚀 Certificaciones y Formación
@@ -17,35 +16,32 @@ Mi perfil combina ciberseguridad, gestión de procesos y análisis de riesgos, l
 * **⚙️ Scrum Fundamentals Certified (SFC)**
 
 ---
-## 🧠 Habilidades
-**Cybersecurity**
-- **Cybersecurity Risk Management**
-- **Governance & Compliance (GRC)**
-- **Identity & Access Management (IAM)**
-- **Network Security Fundamentals**
+## 🧠 Skills
 
-**Herramientas**
+Data & Analysis
+- Risk Analysis
+- Problem Solving
+- Data Interpretation (básico)
 
-- **Cisco Packet Tracer**
-- **Linux / Windows**
-- **Python (básico)**
+Technical
+- Python (básico)
+- SQL (en aprendizaje)
+- Linux / Windows
 
-**Metodologías**
-
-- **Gestión de procesos**
-- **SCRUM**
-- **Análisis de riesgos**
-
+Risk & Governance
+- Governance, Risk & Compliance (GRC)
+- Identity & Access Management (IAM)
+- Process Management
 ---
 
 ## 📁 Proyectos y Experiencia Aplicada
-### 🔐 Identity & Access Management (IAM)
-Análisis de controles de acceso y gestión de privilegios en sistemas internos para mitigar riesgos de identidad.
-Conceptos aplicados:
+### 🔐 🔍 Identity & Access Risk Analysis
+Risk analysis of access controls and user permissions to identify vulnerabilities and improve decision-making.
 - Principio de **mínimo privilegio**
 - Validación de integridad de perfiles
 - Control de accesos a sistemas internos
 - Prevención de fraude interno
+  
 ### 📊 Cumplimiento y Gobernanza de Datos
 Documentación y gestión estratégica de activos de información alineados con normativas de protección de datos.
 Actividades destacadas:
@@ -64,7 +60,7 @@ Actualmente estoy desarrollando laboratorios prácticos de ciberseguridad:
 
 ## 📬 Contacto
 * **Email:** anaaliciaarsandov[at] gmail.com
-### 💬 Si tu equipo busca a alguien que piense la ciberseguridad también desde el negocio y la gestión de riesgos, me encantará conversar.
+### 💬 Interesada en oportunidades donde pueda aplicar análisis de datos, pensamiento lógico y gestión de riesgos para generar valor en equipos tecnológicos.
 ---
 ### ⚠️ Nota
 
